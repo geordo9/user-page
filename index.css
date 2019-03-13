@@ -42,6 +42,10 @@ a {
     padding: 0px;
 }
 
+#create-header {
+    padding: 0px;
+}
+
 section {
   min-height: 200px;
   padding: 30px 15px;
